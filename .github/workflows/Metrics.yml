@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GitHub username
           user: AlbertAyy
-          
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
